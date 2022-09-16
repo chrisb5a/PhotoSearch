@@ -14,6 +14,7 @@
 		D2A46E8128D3E06200149931 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2A46E8028D3E06200149931 /* Assets.xcassets */; };
 		D2A46E8428D3E06200149931 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2A46E8228D3E06200149931 /* LaunchScreen.storyboard */; };
 		D2A46E8C28D3E0E800149931 /* Domain in Resources */ = {isa = PBXBuildFile; fileRef = D2A46E8B28D3E0E800149931 /* Domain */; };
+		D2A46E8E28D3E4E800149931 /* Data in Resources */ = {isa = PBXBuildFile; fileRef = D2A46E8D28D3E4E800149931 /* Data */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		D2A46E8328D3E06200149931 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D2A46E8528D3E06200149931 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D2A46E8B28D3E0E800149931 /* Domain */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Domain; sourceTree = "<group>"; };
+		D2A46E8D28D3E4E800149931 /* Data */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Data; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				D2A46E8B28D3E0E800149931 /* Domain */,
+				D2A46E8D28D3E4E800149931 /* Data */,
 				D2A46E7728D3E06000149931 /* AppDelegate.swift */,
 				D2A46E7928D3E06000149931 /* SceneDelegate.swift */,
 				D2A46E7B28D3E06000149931 /* ViewController.swift */,
@@ -130,6 +133,7 @@
 			files = (
 				D2A46E8428D3E06200149931 /* LaunchScreen.storyboard in Resources */,
 				D2A46E8128D3E06200149931 /* Assets.xcassets in Resources */,
+				D2A46E8E28D3E4E800149931 /* Data in Resources */,
 				D2A46E8C28D3E0E800149931 /* Domain in Resources */,
 				D2A46E7F28D3E06000149931 /* Main.storyboard in Resources */,
 			);
